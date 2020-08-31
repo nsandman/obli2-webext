@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "obli",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "obli",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Powerful and efficient web automation platform",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "obli",
+    "description": "The title of the browser action button"
+  }
+}
